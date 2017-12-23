@@ -1,0 +1,200 @@
+<?xml version="1.0" ?> 
+<Books> 
+<Book id = "-792019048"> 
+<genre>Fantasy</genre> 
+<title>Book-XAZ</title> 
+<year>2005</year> 
+<city>Andalusia</city> 
+<publisher>Grupo Planeta</publisher> 
+<annotation>YDLvEyEmlvayNUaPePHOiyZfPdYvrwFSLboyiCWbQNSeDhIQAMjAvpXBstoXYHcnLKwPHdLNYAPSQAeItOWHkjPIyfUhHvdkXPvf</annotation> 
+<pages>560</pages> 
+<cover>Arrestox</cover> 
+<price>131.0</price> 
+<discount>12.0</discount> 
+</Book> 
+<Book id = "-1782443445"> 
+<genre>Tragicomedy</genre> 
+<author>Maya Angelou</author> 
+<title>Book-rEM</title> 
+<year>1898</year> 
+<city>Chickasaw</city> 
+<publisher>Kodansha</publisher> 
+<annotation>wGiYbiohHZBoKRaJHDcijqQBXXKivIrzeTQJAGjBAeufIaXWVawPHrQkWqXqtIqIdWhfpqwomuLFXzBmKjMUZJtwPHPpSfAmTsXk</annotation> 
+<pages>68</pages> 
+<cover>ClothLinen</cover> 
+<price>140.0</price> 
+<discount>7.0</discount> 
+</Book> 
+<Book id = "839665086"> 
+<genre>Crime/detective</genre> 
+<author>Dante Alighieri</author> 
+<title>Book-rqs</title> 
+<year>1928</year> 
+<city>Chickasaw</city> 
+<publisher>Holtzbrinck</publisher> 
+<annotation>IzFnWCMapXUmKnWrhjaAIFFvqEkuqiyJrJnMJFYLNPTTDOmNAizjyRnPkSAvoPkpjIZmngvXtZcluRvwXzRRbAEsaMhvbnWmTAVc</annotation> 
+<pages>322</pages> 
+<cover>Pearl</cover> 
+<price>12.0</price> 
+<discount>18.0</discount> 
+</Book> 
+<Book id = "-782979215"> 
+<genre>Tragedy</genre> 
+<author>Philip Ardagh</author> 
+<title>Book-Wuk</title> 
+<year>1849</year> 
+<city>Cullman</city> 
+<publisher>Scholastic</publisher> 
+<annotation>hOndnzzJPibNPJIQAsaFvoEATZEFFJhZjYrleLkJeNLzvdyMTySEEpdqApZZiWgAGPLbhPePJcbYIGlAoJsSvTEOLzgrcCFoWlPL</annotation> 
+<pages>1986</pages> 
+<cover>Buckra</cover> 
+<price>113.0</price> 
+<discount>2.0</discount> 
+</Book> 
+<Book id = "-1783357666"> 
+<genre>Crime/detective</genre> 
+<title>Book-dPd</title> 
+<year>1723</year> 
+<city>Bessemer</city> 
+<publisher>Scholastic</publisher> 
+<annotation>tlnInMYjJzvuZLRbbPlCnWiyWMAFHViXRaRhLEMXdgEMsDZysnWYAHHJYYyBNqZPmbZkteCWnvrtIaVWKnzJAJJrgcFbucHmJLcI</annotation> 
+<pages>1158</pages> 
+<cover>B-ClothVerona</cover> 
+<price>112.0</price> 
+<discount>7.0</discount> 
+</Book> 
+<Book id = "-140286607"> 
+<genre>Drama</genre> 
+<author>Isabel Allende</author> 
+<title>Book-nPj</title> 
+<year>1819</year> 
+<city>Chickasaw</city> 
+<publisher>Bertelsmann AG</publisher> 
+<annotation>FywwEIEJVuAvEWPlpvqNriLzkJAfVPkZAaSYkThPmhOiTYsfGyVlFYCAZEQArVrputCVoYQEAkoRAbfHRhOEQFzqHIJrUjGLkPpp</annotation> 
+<pages>1643</pages> 
+<cover>B-ClothVerona</cover> 
+<price>50.0</price> 
+<discount>7.0</discount> 
+</Book> 
+<Book id = "1792279276"> 
+<genre>Comedy</genre> 
+<author>Chinua Achebe</author> 
+<title>Book-pEZ</title> 
+<year>1809</year> 
+<city>Andalusia</city> 
+<publisher>Gruppo De Agostini</publisher> 
+<annotation>syPZsvuSlBJawAHuPessBcGnJHtKiAkOJfPnjVebVcJPmUNfGXWpPiAlPChHPXdPRWRLvsQAQuPKaiZokYhPANbApVPASTDPAQHC</annotation> 
+<pages>1504</pages> 
+<cover>Pearl</cover> 
+<price>103.0</price> 
+<discount>18.0</discount> 
+</Book> 
+<Book id = "-1963885185"> 
+<genre>Crime/detective</genre> 
+<author>Douglas Adams</author> 
+<author>WH Auden</author> 
+<title>Book-gsa</title> 
+<year>1964</year> 
+<city>Bessemer</city> 
+<publisher>Grupo Planeta</publisher> 
+<annotation>PuFAErCzhATKyqzhroDAajnJwFoESoeABBzoAZDVaeDKBpOPDbEwKBOeImYQkLoWgVUKqFfBlMVwPsSmqJZSAmzrclRXAWqGYAwp</annotation> 
+<pages>1617</pages> 
+<cover>Pearl</cover> 
+<price>149.0</price> 
+<discount>8.0</discount> 
+</Book> 
+<Book id = "1672446591"> 
+<genre>Literary realism</genre> 
+<author>Alistair Cooke</author> 
+<title>Book-UTH</title> 
+<year>1928</year> 
+<city>Chickasaw</city> 
+<publisher>Gruppo De Agostini</publisher> 
+<annotation>nBPAWdVJNWUVTALsSmjNyLiCKJnawlMYQQFdgaAFWzYNAMeQPKcFhebuMUwQOPJKMWAZAvgcENnAACsnMQYNWsUWhcRAGSYppOir</annotation> 
+<pages>312</pages> 
+<cover>Cot-Linen</cover> 
+<price>133.0</price> 
+<discount>12.0</discount> 
+</Book> 
+<Book id = "1532940566"> 
+<genre>Satire</genre> 
+<author>Annie Proulx</author> 
+<author>Jane Austen</author> 
+<title>Book-NKi</title> 
+<year>1795</year> 
+<city>Andalusia</city> 
+<publisher>Grupo Planeta</publisher> 
+<annotation>FbzAsGnhEuKAzwlLpAnuTDbLkWBmMoeVlAYntjhySmHsfUAvHWTVncwGhWkJiYGajDYfUSYwmAlPuAjtXEZknkCKvLfvPwjWIgnA</annotation> 
+<pages>1667</pages> 
+<cover>Kennett</cover> 
+<price>47.0</price> 
+<discount>19.0</discount> 
+</Book> 
+<Book id = "1197611792"> 
+<genre>Adventure</genre> 
+<author>Isabel Allende</author> 
+<title>Book-PkY</title> 
+<year>1822</year> 
+<city>Fort Payne</city> 
+<publisher>Wiley</publisher> 
+<annotation>prAuwrNGonjYmvBvcKqWCjOKQWGHQsAeaAaiPjjObWRZWnCakVzlqRLEOTsczVTpeBdArQbrNWWCkdfwAgGnfiPNzDiNhcaAvNgc</annotation> 
+<pages>290</pages> 
+<cover>ClothLinen</cover> 
+<price>194.0</price> 
+<discount>9.0</discount> 
+</Book> 
+<Book id = "847750004"> 
+<genre>Fable</genre> 
+<author>Kingsley Amis</author> 
+<author>Jane Austen</author> 
+<title>Book-TQo</title> 
+<year>1847</year> 
+<city>Andalusia</city> 
+<publisher>Scholastic</publisher> 
+<annotation>WbOVcRrMUPGKXptnmdLZUwAATwaIGntyPYfWoGhvIUavOAsWugBkGVgOgXKkrWJYvHJdhMizMvPODQKDCBCFaKWvhTMbFeSCegeP</annotation> 
+<pages>355</pages> 
+<cover>Arrestox</cover> 
+<price>12.0</price> 
+<discount>17.0</discount> 
+</Book> 
+<Book id = "-1703361710"> 
+<genre>Literary realism</genre> 
+<author>Isaac Asimov</author> 
+<title>Book-PAS</title> 
+<year>1883</year> 
+<city>Alexander City</city> 
+<publisher>Grupo Planeta</publisher> 
+<annotation>FpazDoUYupEOAnoiZAErYVuUseQMfuljHNiSMcoOJjFnScYtpApiZgcNnnTIaSVKQsIPfPZhUJnrbGskVNoXgVtYDfPevvyQuzbP</annotation> 
+<pages>1492</pages> 
+<cover>Manhattan</cover> 
+<price>166.0</price> 
+<discount>15.0</discount> 
+</Book> 
+<Book id = "282523333"> 
+<genre>Comedy</genre> 
+<author>Aaron Akinyemi</author> 
+<title>Book-XSs</title> 
+<year>1888</year> 
+<city>Anniston</city> 
+<publisher>Scholastic</publisher> 
+<annotation>GHVXgiTbuqkLQbXcFNNYMyOAtLqNiRirPFJcvANSEeMVLaRPaVnLkjnnKEPuZEClMYKsIgllJCKqrlEHYZqiEYgBTjwCEwcBqaqr</annotation> 
+<pages>1601</pages> 
+<cover>Manhattan</cover> 
+<price>63.0</price> 
+<discount>19.0</discount> 
+</Book> 
+<Book id = "-83662480"> 
+<genre>Horror fiction</genre> 
+<author>Annie Proulx</author> 
+<author>Monica Ali</author> 
+<title>Book-IJl</title> 
+<year>1730</year> 
+<city>Alexander City</city> 
+<publisher>Pearson</publisher> 
+<annotation>lDJyzPgOntYNjWSlkXmbAsEqAkZpWfQbJeeszCPHdpuigAIFjHcaLRXifbsAJWWNPHiPnYkhcyHajiMzBItZYcfqwbqVQzKgRhZU</annotation> 
+<pages>660</pages> 
+<cover>Cot-Linen</cover> 
+<price>33.0</price> 
+<discount>4.0</discount> 
+</Book> 
+</Books> 
